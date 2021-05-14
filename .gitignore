@@ -40,3 +40,8 @@ ld.exe*
 # test artifacts
 *.lz4
 tmp*
+
+build_aarch64
+build_cross
+build_host
+*.1
